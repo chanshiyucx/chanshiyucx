@@ -9,7 +9,7 @@
 蝉鸣如雨，花宵道中，一如少年。
 
 [![Chanshiyu's github stats](https://github-readme-stats.vercel.app/api?username=chanshiyucx)](https://github.com/anuraghazra/github-readme-stats)
-![Genshin_Impact](https://genshin-card.himiku.com/38/81297134.png)
+![Genshin_Impact](https://genshin-card.getloli.com/38/81297134.png)
 
 Code is Long, Life is Short.
 
