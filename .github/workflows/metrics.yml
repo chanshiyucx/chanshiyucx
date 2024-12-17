@@ -20,6 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
+          user: chanshiyucx
           filename: metrics-calendar.svg
           base: ""
           plugin_isocalendar: yes
