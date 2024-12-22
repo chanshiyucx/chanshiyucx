@@ -22,6 +22,5 @@ jobs:
           # Options
           filename: metrics-calendar.svg
           base: ""
-          output_title: false
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
