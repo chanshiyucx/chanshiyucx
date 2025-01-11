@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chanshiyucx&show_icons=true" align=right />
 </picture>
 
-I'm a self-taught programmer passionate about crafting clean, maintainable, and well-architected code solutions. My love for programming drives me to continuously explore modern technologies in the JavaScript, TypeScript, Vue, and React ecosystems. Additionally, I have foundational knowledge of Java and Python.
+A self-taught programmer passionate about crafting clean, maintainable, and well-architected code solutions. My love for programming drives me to continuously explore modern technologies in the JavaScript, TypeScript, Vue, and React ecosystems. Additionally, I have foundational knowledge of Java and Python.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
