@@ -10,22 +10,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Blog Github Stats
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics-calendar.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
       - name: Readme General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: general.svg
+          filename: metrics.svg
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, discussions, topics
