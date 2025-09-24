@@ -32,5 +32,3 @@ I'm A self-taught programmer passionate about crafting clean, maintainable, and 
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
 </p>
-
-![Metrics](/general.svg)
