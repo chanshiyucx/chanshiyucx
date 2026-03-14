@@ -5,10 +5,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chanshiyucx&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
 </picture>
 
 I'm A self-taught programmer passionate about crafting clean, maintainable, and well-architected code solutions. My love for programming drives me to continuously explore in the JavaScript, TypeScript, Vue, and React ecosystems. Additionally, I have foundational knowledge of Java and Python.
