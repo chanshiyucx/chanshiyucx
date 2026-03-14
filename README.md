@@ -1,4 +1,4 @@
-# Shiyu 💻 ![](https://visitor-badge.laobi.icu/badge?page_id=chanshiyucx.readme)](https://wakatime.com/@Reverie)
+# Shiyu 💻 ![](https://visitor-badge.laobi.icu/badge?page_id=chanshiyucx.readme)]
 
 <picture>
   <source
