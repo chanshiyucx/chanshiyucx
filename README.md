@@ -2,12 +2,9 @@
 $ whoami
 Shiyu — full-stack developer · budding photographer
 
-$ motto
-curious mind, clean code, meaningful products
-
 $ focus
-TypeScript · React · Vue · Rust · Next.js
+TypeScript · React · Vue · Rust · NextJS
 
 $ status
-dreaming deeply, learning daily, chasing light
+dreaming deeply, coding endlessly, learning daily, chasing light
 ```
