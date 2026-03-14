@@ -3,8 +3,8 @@ $ whoami
 Shiyu — full-stack developer · budding photographer
 
 $ focus
-TypeScript · React · Vue · Rust · NextJS
+TypeScript · React · Vue · Rust · NextJS · Figma
 
 $ status
-Dreaming deeply, coding endlessly, learning daily, chasing light
+Dreaming deeply, coding endlessly, chasing light
 ```
