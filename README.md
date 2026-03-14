@@ -6,5 +6,5 @@ $ focus
 TypeScript · React · Vue · Rust · NextJS
 
 $ status
-dreaming deeply, coding endlessly, learning daily, chasing light
+Dreaming deeply, coding endlessly, learning daily, chasing light
 ```
